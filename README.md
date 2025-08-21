@@ -1,18 +1,16 @@
-# Data Structures and Algorithms Study Guide
+# LearnDSA - NeetCode 250 Solutions
 
-This repository contains solutions to the NeetCode 250 problems, organized by topic in a recommended study order. Each problem includes detailed explanations, multiple solution approaches with time and space complexity analysis, and step-by-step traces through examples.
+A comprehensive collection of solutions to the NeetCode 250 problems, organized by topic in a recommended study order. This repository is designed to help you prepare for technical interviews at companies like Google.
 
-## Directory Structure
+## Features
 
-The repository is organized with a sequential numbering system to make it easy to follow the recommended study path:
+- **Structured Learning Path**: Topics numbered 01-18 in recommended study order
+- **Comprehensive Solutions**: Each problem includes multiple solution approaches
+- **Detailed Explanations**: Time and space complexity analysis for each solution
+- **Step-by-Step Traces**: Walk through examples to understand the solutions
+- **Concept Overviews**: Each topic includes key concepts and techniques
 
-- Folders are numbered (01-18) to indicate the recommended order of study
-- Within each folder, problems are numbered sequentially based on difficulty and logical progression
-- Each topic folder contains a README with an overview of key concepts and a table of problems
-
-## Study Path
-
-Follow this numbered sequence for an optimal learning experience:
+## Topics Covered
 
 1. **Arrays & Hashing** - Fundamental data structures and operations
 2. **Two Pointers** - Efficient array manipulation techniques
@@ -43,16 +41,6 @@ Follow this numbered sequence for an optimal learning experience:
 6. Follow the step-by-step traces through examples to solidify your understanding
 7. Progress to the next topic only after you feel comfortable with the current one
 
-## Problem Structure
-
-Each problem file includes:
-- Clear problem statement with examples and constraints
-- Concept overview explaining the key insights
-- Multiple solution approaches with code implementations
-- Time and space complexity analysis
-- Detailed explanations of why the best solution was chosen
-- Step-by-step traces through examples
-
 ## Navigation Tips
 
 - Use the numbered folders to follow the recommended study path
@@ -60,4 +48,15 @@ Each problem file includes:
 - Review the README in each topic folder to understand the key concepts before diving into problems
 - Cross-reference related problems across different topics to deepen your understanding
 
-Good luck with your Google interview preparation!
+## Contributing
+
+If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+
+- [NeetCode](https://neetcode.io/) for the curated list of 250 problems
+- [LeetCode](https://leetcode.com/) for the original problems
