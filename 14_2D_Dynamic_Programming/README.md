@@ -31,14 +31,14 @@
 
 | # | Problem | Difficulty | Solution Link |
 |---|---------|------------|---------------|
-| 1 | Unique Paths | Medium | [Solution](./Unique_Paths.md) |
-| 2 | Longest Common Subsequence | Medium | [Solution](./Longest_Common_Subsequence.md) |
-| 3 | Best Time to Buy and Sell Stock with Cooldown | Medium | [Solution](./Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.md) |
-| 4 | Coin Change II | Medium | [Solution](./Coin_Change_II.md) |
-| 5 | Target Sum | Medium | [Solution](./Target_Sum.md) |
-| 6 | Interleaving String | Medium | [Solution](./Interleaving_String.md) |
-| 7 | Longest Increasing Path in a Matrix | Hard | [Solution](./Longest_Increasing_Path_in_a_Matrix.md) |
-| 8 | Distinct Subsequences | Hard | [Solution](./Distinct_Subsequences.md) |
-| 9 | Edit Distance | Hard | [Solution](./Edit_Distance.md) |
-| 10 | Burst Balloons | Hard | [Solution](./Burst_Balloons.md) |
-| 11 | Regular Expression Matching | Hard | [Solution](./Regular_Expression_Matching.md) |
+| 1 | Unique Paths | Medium | [Solution](./01_Unique_Paths.md) |
+| 2 | Longest Common Subsequence | Medium | [Solution](./02_Longest_Common_Subsequence.md) |
+| 3 | Best Time to Buy and Sell Stock with Cooldown | Medium | [Solution](./03_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.md) |
+| 4 | Coin Change II | Medium | [Solution](./04_Coin_Change_II.md) |
+| 5 | Target Sum | Medium | [Solution](./05_Target_Sum.md) |
+| 6 | Interleaving String | Medium | [Solution](./06_Interleaving_String.md) |
+| 7 | Longest Increasing Path in a Matrix | Hard | [Solution](./07_Longest_Increasing_Path_in_a_Matrix.md) |
+| 8 | Distinct Subsequences | Hard | [Solution](./08_Distinct_Subsequences.md) |
+| 9 | Edit Distance | Hard | [Solution](./09_Edit_Distance.md) |
+| 10 | Burst Balloons | Hard | [Solution](./10_Burst_Balloons.md) |
+| 11 | Regular Expression Matching | Hard | [Solution](./11_Regular_Expression_Matching.md) |

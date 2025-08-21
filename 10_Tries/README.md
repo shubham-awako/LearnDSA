@@ -38,6 +38,6 @@ A trie (pronounced as "try") is a tree-like data structure used to store a dynam
 
 | # | Problem | Difficulty | Solution Link |
 |---|---------|------------|---------------|
-| 1 | Implement Trie (Prefix Tree) | Medium | [Solution](./Implement_Trie.md) |
-| 2 | Design Add and Search Words Data Structure | Medium | [Solution](./Design_Add_and_Search_Words_Data_Structure.md) |
-| 3 | Word Search II | Hard | [Solution](./Word_Search_II.md) |
+| 1 | Implement Trie (Prefix Tree) | Medium | [Solution](./01_Implement_Trie.md) |
+| 2 | Design Add and Search Words Data Structure | Medium | [Solution](./02_Design_Add_and_Search_Words_Data_Structure.md) |
+| 3 | Word Search II | Hard | [Solution](./03_Word_Search_II.md) |

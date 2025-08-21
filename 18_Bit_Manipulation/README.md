@@ -40,10 +40,10 @@ Bit manipulation involves performing operations on individual bits of a binary n
 
 | # | Problem | Difficulty | Solution Link |
 |---|---------|------------|---------------|
-| 1 | Single Number | Easy | [Solution](./Single_Number.md) |
-| 2 | Number of 1 Bits | Easy | [Solution](./Number_of_1_Bits.md) |
-| 3 | Counting Bits | Easy | [Solution](./Counting_Bits.md) |
-| 4 | Reverse Bits | Easy | [Solution](./Reverse_Bits.md) |
-| 5 | Missing Number | Easy | [Solution](./Missing_Number.md) |
-| 6 | Sum of Two Integers | Medium | [Solution](./Sum_of_Two_Integers.md) |
-| 7 | Reverse Integer | Medium | [Solution](./Reverse_Integer.md) |
+| 1 | Single Number | Easy | [Solution](./01_Single_Number.md) |
+| 2 | Number of 1 Bits | Easy | [Solution](./02_Number_of_1_Bits.md) |
+| 3 | Counting Bits | Easy | [Solution](./03_Counting_Bits.md) |
+| 4 | Reverse Bits | Easy | [Solution](./04_Reverse_Bits.md) |
+| 5 | Missing Number | Easy | [Solution](./05_Missing_Number.md) |
+| 6 | Sum of Two Integers | Medium | [Solution](./06_Sum_of_Two_Integers.md) |
+| 7 | Reverse Integer | Medium | [Solution](./07_Reverse_Integer.md) |

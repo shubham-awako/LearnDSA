@@ -44,17 +44,17 @@ def binary_search(arr, target):
 
 | # | Problem | Difficulty | Solution Link |
 |---|---------|------------|---------------|
-| 1 | Binary Search | Easy | [Solution](./Binary_Search.md) |
-| 2 | Search Insert Position | Easy | [Solution](./Search_Insert_Position.md) |
-| 3 | Guess Number Higher Or Lower | Easy | [Solution](./Guess_Number_Higher_Or_Lower.md) |
-| 4 | Sqrt(x) | Easy | [Solution](./Sqrt.md) |
-| 5 | Search a 2D Matrix | Medium | [Solution](./Search_a_2D_Matrix.md) |
-| 6 | Koko Eating Bananas | Medium | [Solution](./Koko_Eating_Bananas.md) |
-| 7 | Capacity to Ship Packages Within D Days | Medium | [Solution](./Capacity_to_Ship_Packages_Within_D_Days.md) |
-| 8 | Find Minimum In Rotated Sorted Array | Medium | [Solution](./Find_Minimum_In_Rotated_Sorted_Array.md) |
-| 9 | Search In Rotated Sorted Array | Medium | [Solution](./Search_In_Rotated_Sorted_Array.md) |
-| 10 | Search In Rotated Sorted Array II | Medium | [Solution](./Search_In_Rotated_Sorted_Array_II.md) |
-| 11 | Time Based Key Value Store | Medium | [Solution](./Time_Based_Key_Value_Store.md) |
-| 12 | Split Array Largest Sum | Hard | [Solution](./Split_Array_Largest_Sum.md) |
-| 13 | Median of Two Sorted Arrays | Hard | [Solution](./Median_of_Two_Sorted_Arrays.md) |
-| 14 | Find in Mountain Array | Hard | [Solution](./Find_in_Mountain_Array.md) |
+| 1 | Binary Search | Easy | [Solution](./01_Binary_Search.md) |
+| 2 | Search Insert Position | Easy | [Solution](./02_Search_Insert_Position.md) |
+| 3 | Guess Number Higher Or Lower | Easy | [Solution](./03_Guess_Number_Higher_Or_Lower.md) |
+| 4 | Sqrt(x) | Easy | [Solution](./04_Sqrt.md) |
+| 5 | Search a 2D Matrix | Medium | [Solution](./05_Search_a_2D_Matrix.md) |
+| 6 | Koko Eating Bananas | Medium | [Solution](./06_Koko_Eating_Bananas.md) |
+| 7 | Capacity to Ship Packages Within D Days | Medium | [Solution](./07_Capacity_to_Ship_Packages_Within_D_Days.md) |
+| 8 | Find Minimum In Rotated Sorted Array | Medium | [Solution](./08_Find_Minimum_In_Rotated_Sorted_Array.md) |
+| 9 | Search In Rotated Sorted Array | Medium | [Solution](./09_Search_In_Rotated_Sorted_Array.md) |
+| 10 | Search In Rotated Sorted Array II | Medium | [Solution](./10_Search_In_Rotated_Sorted_Array_II.md) |
+| 11 | Time Based Key Value Store | Medium | [Solution](./11_Time_Based_Key_Value_Store.md) |
+| 12 | Split Array Largest Sum | Hard | [Solution](./12_Split_Array_Largest_Sum.md) |
+| 13 | Median of Two Sorted Arrays | Hard | [Solution](./13_Median_of_Two_Sorted_Arrays.md) |
+| 14 | Find in Mountain Array | Hard | [Solution](./14_Find_in_Mountain_Array.md) |

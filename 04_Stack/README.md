@@ -29,18 +29,18 @@ A stack is a linear data structure that follows the Last-In-First-Out (LIFO) pri
 
 | # | Problem | Difficulty | Solution Link |
 |---|---------|------------|---------------|
-| 1 | Baseball Game | Easy | [Solution](./Baseball_Game.md) |
-| 2 | Valid Parentheses | Easy | [Solution](./Valid_Parentheses.md) |
-| 3 | Implement Stack Using Queues | Easy | [Solution](./Implement_Stack_Using_Queues.md) |
-| 4 | Implement Queue using Stacks | Easy | [Solution](./Implement_Queue_using_Stacks.md) |
-| 5 | Min Stack | Medium | [Solution](./Min_Stack.md) |
-| 6 | Evaluate Reverse Polish Notation | Medium | [Solution](./Evaluate_Reverse_Polish_Notation.md) |
-| 7 | Generate Parentheses | Medium | [Solution](./Generate_Parentheses.md) |
-| 8 | Asteroid Collision | Medium | [Solution](./Asteroid_Collision.md) |
-| 9 | Daily Temperatures | Medium | [Solution](./Daily_Temperatures.md) |
-| 10 | Online Stock Span | Medium | [Solution](./Online_Stock_Span.md) |
-| 11 | Car Fleet | Medium | [Solution](./Car_Fleet.md) |
-| 12 | Simplify Path | Medium | [Solution](./Simplify_Path.md) |
-| 13 | Decode String | Medium | [Solution](./Decode_String.md) |
-| 14 | Maximum Frequency Stack | Hard | [Solution](./Maximum_Frequency_Stack.md) |
-| 15 | Largest Rectangle In Histogram | Hard | [Solution](./Largest_Rectangle_In_Histogram.md) |
+| 1 | Baseball Game | Easy | [Solution](./01_Baseball_Game.md) |
+| 2 | Valid Parentheses | Easy | [Solution](./02_Valid_Parentheses.md) |
+| 3 | Implement Stack Using Queues | Easy | [Solution](./03_Implement_Stack_Using_Queues.md) |
+| 4 | Implement Queue using Stacks | Easy | [Solution](./04_Implement_Queue_using_Stacks.md) |
+| 5 | Min Stack | Medium | [Solution](./05_Min_Stack.md) |
+| 6 | Evaluate Reverse Polish Notation | Medium | [Solution](./06_Evaluate_Reverse_Polish_Notation.md) |
+| 7 | Generate Parentheses | Medium | [Solution](./07_Generate_Parentheses.md) |
+| 8 | Asteroid Collision | Medium | [Solution](./08_Asteroid_Collision.md) |
+| 9 | Daily Temperatures | Medium | [Solution](./09_Daily_Temperatures.md) |
+| 10 | Online Stock Span | Medium | [Solution](./10_Online_Stock_Span.md) |
+| 11 | Car Fleet | Medium | [Solution](./11_Car_Fleet.md) |
+| 12 | Simplify Path | Medium | [Solution](./12_Simplify_Path.md) |
+| 13 | Decode String | Medium | [Solution](./13_Decode_String.md) |
+| 14 | Maximum Frequency Stack | Hard | [Solution](./14_Maximum_Frequency_Stack.md) |
+| 15 | Largest Rectangle In Histogram | Hard | [Solution](./15_Largest_Rectangle_In_Histogram.md) |

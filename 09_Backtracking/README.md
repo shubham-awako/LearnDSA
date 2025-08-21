@@ -38,12 +38,12 @@ Backtracking is an algorithmic technique for solving problems recursively by try
 
 | # | Problem | Difficulty | Solution Link |
 |---|---------|------------|---------------|
-| 1 | Subsets | Medium | [Solution](./Subsets.md) |
-| 2 | Combination Sum | Medium | [Solution](./Combination_Sum.md) |
-| 3 | Permutations | Medium | [Solution](./Permutations.md) |
-| 4 | Subsets II | Medium | [Solution](./Subsets_II.md) |
-| 5 | Combination Sum II | Medium | [Solution](./Combination_Sum_II.md) |
-| 6 | Word Search | Medium | [Solution](./Word_Search.md) |
-| 7 | Palindrome Partitioning | Medium | [Solution](./Palindrome_Partitioning.md) |
-| 8 | Letter Combinations of a Phone Number | Medium | [Solution](./Letter_Combinations_of_a_Phone_Number.md) |
-| 9 | N-Queens | Hard | [Solution](./N_Queens.md) |
+| 1 | Subsets | Medium | [Solution](./01_Subsets.md) |
+| 2 | Combination Sum | Medium | [Solution](./02_Combination_Sum.md) |
+| 3 | Permutations | Medium | [Solution](./03_Permutations.md) |
+| 4 | Subsets II | Medium | [Solution](./04_Subsets_II.md) |
+| 5 | Combination Sum II | Medium | [Solution](./05_Combination_Sum_II.md) |
+| 6 | Word Search | Medium | [Solution](./06_Word_Search.md) |
+| 7 | Palindrome Partitioning | Medium | [Solution](./07_Palindrome_Partitioning.md) |
+| 8 | Letter Combinations of a Phone Number | Medium | [Solution](./08_Letter_Combinations_of_a_Phone_Number.md) |
+| 9 | N-Queens | Hard | [Solution](./09_N_Queens.md) |

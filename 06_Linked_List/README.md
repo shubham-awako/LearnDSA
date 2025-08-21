@@ -38,17 +38,17 @@ A linked list is a linear data structure where elements are stored in nodes, and
 
 | # | Problem | Difficulty | Solution Link |
 |---|---------|------------|---------------|
-| 1 | Reverse Linked List | Easy | [Solution](./Reverse_Linked_List.md) |
-| 2 | Merge Two Sorted Lists | Easy | [Solution](./Merge_Two_Sorted_Lists.md) |
-| 3 | Linked List Cycle | Easy | [Solution](./Linked_List_Cycle.md) |
-| 4 | Reorder List | Medium | [Solution](./Reorder_List.md) |
-| 5 | Remove Nth Node From End of List | Medium | [Solution](./Remove_Nth_Node_From_End_of_List.md) |
-| 6 | Copy List With Random Pointer | Medium | [Solution](./Copy_List_With_Random_Pointer.md) |
-| 7 | Add Two Numbers | Medium | [Solution](./Add_Two_Numbers.md) |
-| 8 | Find The Duplicate Number | Medium | [Solution](./Find_The_Duplicate_Number.md) |
-| 9 | Reverse Linked List II | Medium | [Solution](./Reverse_Linked_List_II.md) |
-| 10 | Design Circular Queue | Medium | [Solution](./Design_Circular_Queue.md) |
-| 11 | LRU Cache | Medium | [Solution](./LRU_Cache.md) |
-| 12 | LFU Cache | Hard | [Solution](./LFU_Cache.md) |
-| 13 | Merge K Sorted Lists | Hard | [Solution](./Merge_K_Sorted_Lists.md) |
-| 14 | Reverse Nodes In K Group | Hard | [Solution](./Reverse_Nodes_In_K_Group.md) |
+| 1 | Reverse Linked List | Easy | [Solution](./01_Reverse_Linked_List.md) |
+| 2 | Merge Two Sorted Lists | Easy | [Solution](./02_Merge_Two_Sorted_Lists.md) |
+| 3 | Linked List Cycle | Easy | [Solution](./03_Linked_List_Cycle.md) |
+| 4 | Reorder List | Medium | [Solution](./04_Reorder_List.md) |
+| 5 | Remove Nth Node From End of List | Medium | [Solution](./05_Remove_Nth_Node_From_End_of_List.md) |
+| 6 | Copy List With Random Pointer | Medium | [Solution](./06_Copy_List_With_Random_Pointer.md) |
+| 7 | Add Two Numbers | Medium | [Solution](./07_Add_Two_Numbers.md) |
+| 8 | Find The Duplicate Number | Medium | [Solution](./08_Find_The_Duplicate_Number.md) |
+| 9 | Reverse Linked List II | Medium | [Solution](./09_Reverse_Linked_List_II.md) |
+| 10 | Design Circular Queue | Medium | [Solution](./10_Design_Circular_Queue.md) |
+| 11 | LRU Cache | Medium | [Solution](./11_LRU_Cache.md) |
+| 12 | LFU Cache | Hard | [Solution](./12_LFU_Cache.md) |
+| 13 | Merge K Sorted Lists | Hard | [Solution](./13_Merge_K_Sorted_Lists.md) |
+| 14 | Reverse Nodes In K Group | Hard | [Solution](./14_Reverse_Nodes_In_K_Group.md) |

@@ -35,11 +35,11 @@ Greedy algorithms build up a solution piece by piece, always choosing the next p
 
 | # | Problem | Difficulty | Solution Link |
 |---|---------|------------|---------------|
-| 1 | Maximum Subarray | Medium | [Solution](./Maximum_Subarray.md) |
-| 2 | Jump Game | Medium | [Solution](./Jump_Game.md) |
-| 3 | Jump Game II | Medium | [Solution](./Jump_Game_II.md) |
-| 4 | Gas Station | Medium | [Solution](./Gas_Station.md) |
-| 5 | Hand of Straights | Medium | [Solution](./Hand_of_Straights.md) |
-| 6 | Merge Triplets to Form Target Triplet | Medium | [Solution](./Merge_Triplets_to_Form_Target_Triplet.md) |
-| 7 | Partition Labels | Medium | [Solution](./Partition_Labels.md) |
-| 8 | Valid Parenthesis String | Medium | [Solution](./Valid_Parenthesis_String.md) |
+| 1 | Maximum Subarray | Medium | [Solution](./01_Maximum_Subarray.md) |
+| 2 | Jump Game | Medium | [Solution](./02_Jump_Game.md) |
+| 3 | Jump Game II | Medium | [Solution](./03_Jump_Game_II.md) |
+| 4 | Gas Station | Medium | [Solution](./04_Gas_Station.md) |
+| 5 | Hand of Straights | Medium | [Solution](./05_Hand_of_Straights.md) |
+| 6 | Merge Triplets to Form Target Triplet | Medium | [Solution](./06_Merge_Triplets_to_Form_Target_Triplet.md) |
+| 7 | Partition Labels | Medium | [Solution](./07_Partition_Labels.md) |
+| 8 | Valid Parenthesis String | Medium | [Solution](./08_Valid_Parenthesis_String.md) |

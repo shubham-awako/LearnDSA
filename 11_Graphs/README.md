@@ -46,14 +46,14 @@ A graph is a non-linear data structure consisting of nodes (vertices) and edges 
 
 | # | Problem | Difficulty | Solution Link |
 |---|---------|------------|---------------|
-| 1 | Number of Islands | Medium | [Solution](./Number_of_Islands.md) |
-| 2 | Clone Graph | Medium | [Solution](./Clone_Graph.md) |
-| 3 | Max Area of Island | Medium | [Solution](./Max_Area_of_Island.md) |
-| 4 | Pacific Atlantic Water Flow | Medium | [Solution](./Pacific_Atlantic_Water_Flow.md) |
-| 5 | Surrounded Regions | Medium | [Solution](./Surrounded_Regions.md) |
-| 6 | Rotting Oranges | Medium | [Solution](./Rotting_Oranges.md) |
-| 7 | Course Schedule | Medium | [Solution](./Course_Schedule.md) |
-| 8 | Course Schedule II | Medium | [Solution](./Course_Schedule_II.md) |
-| 9 | Redundant Connection | Medium | [Solution](./Redundant_Connection.md) |
-| 10 | Word Ladder | Hard | [Solution](./Word_Ladder.md) |
-| 11 | Graph Valid Tree | Medium | [Solution](./Graph_Valid_Tree.md) |
+| 1 | Number of Islands | Medium | [Solution](./01_Number_of_Islands.md) |
+| 2 | Clone Graph | Medium | [Solution](./02_Clone_Graph.md) |
+| 3 | Max Area of Island | Medium | [Solution](./03_Max_Area_of_Island.md) |
+| 4 | Pacific Atlantic Water Flow | Medium | [Solution](./04_Pacific_Atlantic_Water_Flow.md) |
+| 5 | Surrounded Regions | Medium | [Solution](./05_Surrounded_Regions.md) |
+| 6 | Rotting Oranges | Medium | [Solution](./06_Rotting_Oranges.md) |
+| 7 | Course Schedule | Medium | [Solution](./07_Course_Schedule.md) |
+| 8 | Course Schedule II | Medium | [Solution](./08_Course_Schedule_II.md) |
+| 9 | Redundant Connection | Medium | [Solution](./09_Redundant_Connection.md) |
+| 10 | Word Ladder | Hard | [Solution](./10_Word_Ladder.md) |
+| 11 | Graph Valid Tree | Medium | [Solution](./11_Graph_Valid_Tree.md) |

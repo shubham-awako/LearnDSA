@@ -38,9 +38,9 @@ Advanced graph algorithms build upon the basic graph traversal techniques (DFS, 
 
 | # | Problem | Difficulty | Solution Link |
 |---|---------|------------|---------------|
-| 1 | Min Cost to Connect All Points | Medium | [Solution](./Min_Cost_to_Connect_All_Points.md) |
-| 2 | Network Delay Time | Medium | [Solution](./Network_Delay_Time.md) |
-| 3 | Swim in Rising Water | Hard | [Solution](./Swim_in_Rising_Water.md) |
-| 4 | Alien Dictionary | Hard | [Solution](./Alien_Dictionary.md) |
-| 5 | Reconstruct Itinerary | Hard | [Solution](./Reconstruct_Itinerary.md) |
-| 6 | Cheapest Flights Within K Stops | Medium | [Solution](./Cheapest_Flights_Within_K_Stops.md) |
+| 1 | Min Cost to Connect All Points | Medium | [Solution](./01_Min_Cost_to_Connect_All_Points.md) |
+| 2 | Network Delay Time | Medium | [Solution](./02_Network_Delay_Time.md) |
+| 3 | Swim in Rising Water | Hard | [Solution](./03_Swim_in_Rising_Water.md) |
+| 4 | Alien Dictionary | Hard | [Solution](./04_Alien_Dictionary.md) |
+| 5 | Reconstruct Itinerary | Hard | [Solution](./05_Reconstruct_Itinerary.md) |
+| 6 | Cheapest Flights Within K Stops | Medium | [Solution](./06_Cheapest_Flights_Within_K_Stops.md) |

@@ -50,18 +50,18 @@ A tree is a hierarchical data structure consisting of nodes connected by edges. 
 
 | # | Problem | Difficulty | Solution Link |
 |---|---------|------------|---------------|
-| 1 | Invert Binary Tree | Easy | [Solution](./Invert_Binary_Tree.md) |
-| 2 | Maximum Depth of Binary Tree | Easy | [Solution](./Maximum_Depth_of_Binary_Tree.md) |
-| 3 | Diameter of Binary Tree | Easy | [Solution](./Diameter_of_Binary_Tree.md) |
-| 4 | Balanced Binary Tree | Easy | [Solution](./Balanced_Binary_Tree.md) |
-| 5 | Same Tree | Easy | [Solution](./Same_Tree.md) |
-| 6 | Subtree of Another Tree | Easy | [Solution](./Subtree_of_Another_Tree.md) |
-| 7 | Lowest Common Ancestor of a Binary Search Tree | Easy | [Solution](./Lowest_Common_Ancestor_of_a_Binary_Search_Tree.md) |
-| 8 | Binary Tree Level Order Traversal | Medium | [Solution](./Binary_Tree_Level_Order_Traversal.md) |
-| 9 | Binary Tree Right Side View | Medium | [Solution](./Binary_Tree_Right_Side_View.md) |
-| 10 | Count Good Nodes in Binary Tree | Medium | [Solution](./Count_Good_Nodes_in_Binary_Tree.md) |
-| 11 | Validate Binary Search Tree | Medium | [Solution](./Validate_Binary_Search_Tree.md) |
-| 12 | Kth Smallest Element in a BST | Medium | [Solution](./Kth_Smallest_Element_in_a_BST.md) |
-| 13 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | [Solution](./Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.md) |
-| 14 | Binary Tree Maximum Path Sum | Hard | [Solution](./Binary_Tree_Maximum_Path_Sum.md) |
-| 15 | Serialize and Deserialize Binary Tree | Hard | [Solution](./Serialize_and_Deserialize_Binary_Tree.md) |
+| 1 | Invert Binary Tree | Easy | [Solution](./01_Invert_Binary_Tree.md) |
+| 2 | Maximum Depth of Binary Tree | Easy | [Solution](./02_Maximum_Depth_of_Binary_Tree.md) |
+| 3 | Diameter of Binary Tree | Easy | [Solution](./03_Diameter_of_Binary_Tree.md) |
+| 4 | Balanced Binary Tree | Easy | [Solution](./04_Balanced_Binary_Tree.md) |
+| 5 | Same Tree | Easy | [Solution](./05_Same_Tree.md) |
+| 6 | Subtree of Another Tree | Easy | [Solution](./06_Subtree_of_Another_Tree.md) |
+| 7 | Lowest Common Ancestor of a Binary Search Tree | Easy | [Solution](./07_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.md) |
+| 8 | Binary Tree Level Order Traversal | Medium | [Solution](./08_Binary_Tree_Level_Order_Traversal.md) |
+| 9 | Binary Tree Right Side View | Medium | [Solution](./09_Binary_Tree_Right_Side_View.md) |
+| 10 | Count Good Nodes in Binary Tree | Medium | [Solution](./10_Count_Good_Nodes_in_Binary_Tree.md) |
+| 11 | Validate Binary Search Tree | Medium | [Solution](./11_Validate_Binary_Search_Tree.md) |
+| 12 | Kth Smallest Element in a BST | Medium | [Solution](./12_Kth_Smallest_Element_in_a_BST.md) |
+| 13 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | [Solution](./13_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.md) |
+| 14 | Binary Tree Maximum Path Sum | Hard | [Solution](./14_Binary_Tree_Maximum_Path_Sum.md) |
+| 15 | Serialize and Deserialize Binary Tree | Hard | [Solution](./15_Serialize_and_Deserialize_Binary_Tree.md) |

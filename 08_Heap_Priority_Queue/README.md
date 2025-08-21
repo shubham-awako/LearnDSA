@@ -41,10 +41,10 @@ A priority queue is an abstract data type similar to a regular queue, but where 
 
 | # | Problem | Difficulty | Solution Link |
 |---|---------|------------|---------------|
-| 1 | Kth Largest Element in a Stream | Easy | [Solution](./Kth_Largest_Element_in_a_Stream.md) |
-| 2 | Last Stone Weight | Easy | [Solution](./Last_Stone_Weight.md) |
-| 3 | K Closest Points to Origin | Medium | [Solution](./K_Closest_Points_to_Origin.md) |
-| 4 | Kth Largest Element in an Array | Medium | [Solution](./Kth_Largest_Element_in_an_Array.md) |
-| 5 | Task Scheduler | Medium | [Solution](./Task_Scheduler.md) |
-| 6 | Design Twitter | Medium | [Solution](./Design_Twitter.md) |
-| 7 | Find Median from Data Stream | Hard | [Solution](./Find_Median_from_Data_Stream.md) |
+| 1 | Kth Largest Element in a Stream | Easy | [Solution](./01_Kth_Largest_Element_in_a_Stream.md) |
+| 2 | Last Stone Weight | Easy | [Solution](./02_Last_Stone_Weight.md) |
+| 3 | K Closest Points to Origin | Medium | [Solution](./03_K_Closest_Points_to_Origin.md) |
+| 4 | Kth Largest Element in an Array | Medium | [Solution](./04_Kth_Largest_Element_in_an_Array.md) |
+| 5 | Task Scheduler | Medium | [Solution](./05_Task_Scheduler.md) |
+| 6 | Design Twitter | Medium | [Solution](./06_Design_Twitter.md) |
+| 7 | Find Median from Data Stream | Hard | [Solution](./07_Find_Median_from_Data_Stream.md) |

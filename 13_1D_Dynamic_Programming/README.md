@@ -31,15 +31,15 @@ Dynamic Programming (DP) is a technique for solving problems by breaking them do
 
 | # | Problem | Difficulty | Solution Link |
 |---|---------|------------|---------------|
-| 1 | Climbing Stairs | Easy | [Solution](./Climbing_Stairs.md) |
-| 2 | Min Cost Climbing Stairs | Easy | [Solution](./Min_Cost_Climbing_Stairs.md) |
-| 3 | House Robber | Medium | [Solution](./House_Robber.md) |
-| 4 | House Robber II | Medium | [Solution](./House_Robber_II.md) |
-| 5 | Longest Palindromic Substring | Medium | [Solution](./Longest_Palindromic_Substring.md) |
-| 6 | Palindromic Substrings | Medium | [Solution](./Palindromic_Substrings.md) |
-| 7 | Decode Ways | Medium | [Solution](./Decode_Ways.md) |
-| 8 | Coin Change | Medium | [Solution](./Coin_Change.md) |
-| 9 | Maximum Product Subarray | Medium | [Solution](./Maximum_Product_Subarray.md) |
-| 10 | Word Break | Medium | [Solution](./Word_Break.md) |
-| 11 | Longest Increasing Subsequence | Medium | [Solution](./Longest_Increasing_Subsequence.md) |
-| 12 | Partition Equal Subset Sum | Medium | [Solution](./Partition_Equal_Subset_Sum.md) |
+| 1 | Climbing Stairs | Easy | [Solution](./01_Climbing_Stairs.md) |
+| 2 | Min Cost Climbing Stairs | Easy | [Solution](./02_Min_Cost_Climbing_Stairs.md) |
+| 3 | House Robber | Medium | [Solution](./03_House_Robber.md) |
+| 4 | House Robber II | Medium | [Solution](./04_House_Robber_II.md) |
+| 5 | Longest Palindromic Substring | Medium | [Solution](./05_Longest_Palindromic_Substring.md) |
+| 6 | Palindromic Substrings | Medium | [Solution](./06_Palindromic_Substrings.md) |
+| 7 | Decode Ways | Medium | [Solution](./07_Decode_Ways.md) |
+| 8 | Coin Change | Medium | [Solution](./08_Coin_Change.md) |
+| 9 | Maximum Product Subarray | Medium | [Solution](./09_Maximum_Product_Subarray.md) |
+| 10 | Word Break | Medium | [Solution](./10_Word_Break.md) |
+| 11 | Longest Increasing Subsequence | Medium | [Solution](./11_Longest_Increasing_Subsequence.md) |
+| 12 | Partition Equal Subset Sum | Medium | [Solution](./12_Partition_Equal_Subset_Sum.md) |

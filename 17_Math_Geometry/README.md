@@ -38,11 +38,11 @@ Math and Geometry problems involve applying mathematical concepts and geometric 
 
 | # | Problem | Difficulty | Solution Link |
 |---|---------|------------|---------------|
-| 1 | Plus One | Easy | [Solution](./Plus_One.md) |
-| 2 | Rotate Image | Medium | [Solution](./Rotate_Image.md) |
-| 3 | Spiral Matrix | Medium | [Solution](./Spiral_Matrix.md) |
-| 4 | Set Matrix Zeroes | Medium | [Solution](./Set_Matrix_Zeroes.md) |
-| 5 | Happy Number | Easy | [Solution](./Happy_Number.md) |
-| 6 | Pow(x, n) | Medium | [Solution](./Pow_x_n.md) |
-| 7 | Multiply Strings | Medium | [Solution](./Multiply_Strings.md) |
-| 8 | Detect Squares | Medium | [Solution](./Detect_Squares.md) |
+| 1 | Plus One | Easy | [Solution](./01_Plus_One.md) |
+| 2 | Rotate Image | Medium | [Solution](./02_Rotate_Image.md) |
+| 3 | Spiral Matrix | Medium | [Solution](./03_Spiral_Matrix.md) |
+| 4 | Set Matrix Zeroes | Medium | [Solution](./04_Set_Matrix_Zeroes.md) |
+| 5 | Happy Number | Easy | [Solution](./05_Happy_Number.md) |
+| 6 | Pow(x, n) | Medium | [Solution](./06_Pow_x_n.md) |
+| 7 | Multiply Strings | Medium | [Solution](./07_Multiply_Strings.md) |
+| 8 | Detect Squares | Medium | [Solution](./08_Detect_Squares.md) |

@@ -32,9 +32,9 @@ Interval problems involve working with ranges or intervals, typically represente
 
 | # | Problem | Difficulty | Solution Link |
 |---|---------|------------|---------------|
-| 1 | Insert Interval | Medium | [Solution](./Insert_Interval.md) |
-| 2 | Merge Intervals | Medium | [Solution](./Merge_Intervals.md) |
-| 3 | Non-overlapping Intervals | Medium | [Solution](./Non_overlapping_Intervals.md) |
-| 4 | Meeting Rooms | Easy | [Solution](./Meeting_Rooms.md) |
-| 5 | Meeting Rooms II | Medium | [Solution](./Meeting_Rooms_II.md) |
-| 6 | Minimum Interval to Include Each Query | Hard | [Solution](./Minimum_Interval_to_Include_Each_Query.md) |
+| 1 | Insert Interval | Medium | [Solution](./01_Insert_Interval.md) |
+| 2 | Merge Intervals | Medium | [Solution](./02_Merge_Intervals.md) |
+| 3 | Non-overlapping Intervals | Medium | [Solution](./03_Non_overlapping_Intervals.md) |
+| 4 | Meeting Rooms | Easy | [Solution](./04_Meeting_Rooms.md) |
+| 5 | Meeting Rooms II | Medium | [Solution](./05_Meeting_Rooms_II.md) |
+| 6 | Minimum Interval to Include Each Query | Hard | [Solution](./06_Minimum_Interval_to_Include_Each_Query.md) |
